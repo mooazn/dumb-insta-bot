@@ -1,2 +1,1 @@
-# py-py-booo
- Python thingy
+# A python bot you can use to like random pics based on category, follow random people, or of course, like all the photos in your feed.
