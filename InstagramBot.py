@@ -133,7 +133,7 @@ class InstagramBot:
         pass
 
 
-file = open("M:\cred.txt", "r")
+file = open("file.txt", "r")
 username = file.readline()
 password = file.readline()
 
